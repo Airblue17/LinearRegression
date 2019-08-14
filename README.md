@@ -1,2 +1,2 @@
 # LinearRegression
-Regression in Octave
+Linear Models built in R/matlab
